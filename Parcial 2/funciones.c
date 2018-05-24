@@ -20,7 +20,7 @@ int busPrimeraOcurrencia(eProp vector[],int tam, int valor)
            return i;
         }
     }
-
+    return index;
 }
 void mostrarDatos(eProp vector[],int tam, int valor)
 {
@@ -105,3 +105,15 @@ int esAlfaNumer(char vec[])
     }
     return 1;
 }
+/*int ingrStringNum(char mensaje,int dep)
+{
+    char aux[265];
+    printf(mensaje);
+    scanf("%s",aux);
+    if(soloNumeros(aux))
+    {
+        dep=atoi(aux);
+        return 1;
+    }
+    return 0;
+}*/

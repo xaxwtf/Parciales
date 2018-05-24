@@ -12,6 +12,7 @@ int main()
     int limDCaracteres;
     eProp Propietarios[TAM];
     eProp aux;
+    char auxIdString[100];
     int id[TAM]= {1,2,3,4};
     char nombre[TAM][20]= {"Juan","Luis","Maria","Jose"};
     char tarjeta[TAM][20]= {"111-111","222-222","333-333","444-444"};
@@ -34,16 +35,23 @@ int main()
             {
                 case 1:
                     busDato=busPrimeraOcurrencia(Propietarios,TAM,-1);
-                    solCadena("\n indique Su Numero de ID: ",aux.id);
-                    if(!soloNumeros(aux.id))
+                    solCadena("\n indique el Numero de ID: ",auxIdString);
+                    if(!soloNumeros(auxIdString))
                     {
                         printf("\n Ingrese solamente Numeros \n");
+                        break;
+                    }
+                    aux.id=atoi(auxIdString);
+                    if(busPrimeraOcurrencia(Propietarios,TAM,aux.id)!=-1)
+                    {
+                        printf("el Legajo Indicado ya Existe");
                         break;
                     }
                     solCadena("\n indique el Nombre del Propietario: ",aux.Nombre);
                     if(!soloLetras(aux.Nombre))
                     {
                         printf("\n El Nombre solo debe contener Letras \n");
+                        break;
                     }
                     solCadena("\n Indique Su Direccion: ",aux.Direcion);
                     if(!esAlfaNumer(aux.Nombre))
@@ -64,6 +72,25 @@ int main()
                     }
                     break;
                 case 2:
+                    solCadena("\n indique el ID del Usuario que Solicita el Cambio de Tarj. de Credito: \n",auxIdString);
+                    aux.id=atoi(auxIdString);
+                    resBusq=busPrimeraOcurrencia(Propietarios,TAM,aux.id);
+                    if(resBusq==-1)
+                    {
+                        printf("\n El Legajo Indicado No existe \n");
+                    }
+                    else
+                    {
+                        solCadena("\n Indique el Nuevo Numero de Tarj. Credito",aux.NumTarCred);
+                        if(esTarjOTelefono(aux.NumTarCred))
+                        {
+                            strcpy(Propietarios[resBusq].NumTarCred,aux.NumTarCred);
+                        }
+                        else
+                        {
+                            printf("\n Tarj.de Credito Invalida\n");
+                        }
+                    }
                     break;
                 case 3:
                     break;

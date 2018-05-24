@@ -33,8 +33,42 @@ int busPrimeraOcurrencia(eProp vector[],int tam, int valor);
  *
  */
 void mostrarDatos(eProp vector[],int tam, int valor);
+/** \brief verifica que el Array Recibido Contega Solamente Numerod
+ *
+ * \param es el Array a ser Analizado
+ * \return retorna 1 si EL array contiene solamente Numeros y 0 si no
+ *
+ */
 int soloNumeros(char vec[]);
+
+/** \brief Veririca que la cadena Recibida Contenga Solamente Letras
+ *
+ * \param es el Array a Ser Analizado
+ * \return retorna 1 si la cadena  contiene Solo letras y 0 si no
+ *
+ */
 int soloLetras(char vec[]);
+
+/** \brief Veririca que la cadena Recibida es Una Tarjeta o un Telefono
+ *
+ * \param es la Cadena a ser Analizada
+ * \return retorna 1 si la cadena es una tarj. o telf. o 0 si no
+ *
+ */
 int esTarjOTelefono(char vec[]);
+/** \brief solicita un string  y lo guarda
+ *
+ * \param mensaje: es el MensajeVeririca que la cadena Recibida Contenga Solamente Letras a ser Mostrado AL solicitar el String
+ * \param dep : es la Dirrecion Donde Se guardara el Dato Obtenido
+ * \return
+ *
+ */
 void solCadena(char mensaje[],char dep[]);
+/** \brief Verifica si La cadena Recibida es AlfaNumerico
+ *
+ * \param es la cadena a ser Analizada
+ * \return 1 si la cadena es Alfanumerica y 0 si no
+ *
+ */
 int esAlfaNumer(char vec[]);
+
