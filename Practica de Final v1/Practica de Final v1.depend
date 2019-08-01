@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1542668826 source:h:\1a\practicas\practica de final v1\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1542229093 h:\1a\practicas\practica de final v1\linkedlist.h
+
+1564598347 source:h:\1a\practicas\practica de final v1\s_ariel.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"S_Ariel.h"
+
+1542670746 h:\1a\practicas\practica de final v1\s_ariel.h
+
+1564674457 source:h:\1a\practicas\practica de final v1\abono.c
+	"abono.h"
+	"LinkedList.h"
+	<stdio.h>
+	<stdlib.h>
+
+1564689615 h:\1a\practicas\practica de final v1\abono.h
+
+1564682057 source:h:\1a\practicas\practica de final v1\ecliente.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	<string.h>
+	"eCliente.h"
+	"S_Ariel.h"
+
+1564674661 h:\1a\practicas\practica de final v1\ecliente.h
+
+1564682247 source:h:\1a\practicas\practica de final v1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"S_Ariel.h"
+	"Control.h"
+
+1564620120 source:h:\1a\practicas\practica de final v1\paser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"paser.h"
+	"eCliente.h"
+	"abono.h"
+
+1564615124 h:\1a\practicas\practica de final v1\paser.h
+	"LinkedList.h"
+
+1564681573 source:h:\1a\practicas\practica de final v1\control.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"paser.h"
+	"S_Ariel.h"
+	"eCliente.h"
+	"abono.h"
+
+1564689605 h:\1a\practicas\practica de final v1\control.h
+	"abono.h"
+	"eCliente.h"
+
