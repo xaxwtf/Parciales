@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1564712687 source:d:\nueva carpeta\sergio ariel limachi ramos\control.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"paser.h"
+	"S_Ariel.h"
+	"Partidas.h"
+
+1564689848 d:\nueva carpeta\sergio ariel limachi ramos\linkedlist.h
+
+1564712629 d:\nueva carpeta\sergio ariel limachi ramos\paser.h
+
+1564689848 d:\nueva carpeta\sergio ariel limachi ramos\s_ariel.h
+
+1564709621 source:d:\nueva carpeta\sergio ariel limachi ramos\efecha.c
+	"eFecha.h"
+
+1564709783 d:\nueva carpeta\sergio ariel limachi ramos\efecha.h
+
+1564689848 source:d:\nueva carpeta\sergio ariel limachi ramos\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1564711713 source:d:\nueva carpeta\sergio ariel limachi ramos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"control.h"
+	"Partidas.h"
+	"S_Ariel.h"
+	"LinkedList.h"
+
+1564707773 d:\nueva carpeta\sergio ariel limachi ramos\control.h
+
+1564712289 d:\nueva carpeta\sergio ariel limachi ramos\partidas.h
+
+1564711915 source:d:\nueva carpeta\sergio ariel limachi ramos\partidas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Partidas.h"
+
+1564711342 source:d:\nueva carpeta\sergio ariel limachi ramos\paser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"paser.h"
+	"Partidas.h"
+
+1564689848 source:d:\nueva carpeta\sergio ariel limachi ramos\s_ariel.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"S_Ariel.h"
+
+1581537785 source:h:\auxiliar\1a-programacion-laboratorio-1\sarielv2(auxiliar)\sergio ariel limachi ramos\control.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"paser.h"
+	"S_Ariel.h"
+	"Partidas.h"
+
+1581535905 h:\auxiliar\1a-programacion-laboratorio-1\sarielv2(auxiliar)\sergio ariel limachi ramos\linkedlist.h
+
+1575665286 h:\auxiliar\1a-programacion-laboratorio-1\sarielv2(auxiliar)\sergio ariel limachi ramos\paser.h
+
+1575665286 h:\auxiliar\1a-programacion-laboratorio-1\sarielv2(auxiliar)\sergio ariel limachi ramos\s_ariel.h
+
+1581536116 h:\auxiliar\1a-programacion-laboratorio-1\sarielv2(auxiliar)\sergio ariel limachi ramos\partidas.h
+
+1581532781 source:h:\auxiliar\1a-programacion-laboratorio-1\sarielv2(auxiliar)\sergio ariel limachi ramos\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1581474730 source:h:\auxiliar\1a-programacion-laboratorio-1\sarielv2(auxiliar)\sergio ariel limachi ramos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"control.h"
+	"Partidas.h"
+	"S_Ariel.h"
+	"LinkedList.h"
+
+1581531614 h:\auxiliar\1a-programacion-laboratorio-1\sarielv2(auxiliar)\sergio ariel limachi ramos\control.h
+	"LinkedList.h"
+
+1581535108 source:h:\auxiliar\1a-programacion-laboratorio-1\sarielv2(auxiliar)\sergio ariel limachi ramos\partidas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Partidas.h"
+
+1581456879 source:h:\auxiliar\1a-programacion-laboratorio-1\sarielv2(auxiliar)\sergio ariel limachi ramos\paser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"paser.h"
+	"Partidas.h"
+
+1575665286 source:h:\auxiliar\1a-programacion-laboratorio-1\sarielv2(auxiliar)\sergio ariel limachi ramos\s_ariel.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"S_Ariel.h"
+
