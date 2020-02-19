@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1582134096 source:d:\sariel\parciales\final_sergio ariel limachi ramos\control.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"computer.h"
+	"LinkedList.h"
+	"S_Ariel.h"
+	"paser.h"
+
+1582131747 source:d:\sariel\parciales\final_sergio ariel limachi ramos\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1582123376 d:\sariel\parciales\final_sergio ariel limachi ramos\linkedlist.h
+
+1582134648 source:d:\sariel\parciales\final_sergio ariel limachi ramos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"S_Ariel.h"
+	"control.h"
+	"LinkedList.h"
+
+1582123743 d:\sariel\parciales\final_sergio ariel limachi ramos\s_ariel.h
+
+1582133010 d:\sariel\parciales\final_sergio ariel limachi ramos\control.h
+	"LinkedList.h"
+
+1582134045 source:d:\sariel\parciales\final_sergio ariel limachi ramos\paser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"paser.h"
+	"computer.h"
+
+1582123376 d:\sariel\parciales\final_sergio ariel limachi ramos\paser.h
+
+1582123947 source:d:\sariel\parciales\final_sergio ariel limachi ramos\s_ariel.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"S_Ariel.h"
+
+1582134108 source:d:\sariel\parciales\final_sergio ariel limachi ramos\computer.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"computer.h"
+
+1582134108 d:\sariel\parciales\final_sergio ariel limachi ramos\computer.h
+
