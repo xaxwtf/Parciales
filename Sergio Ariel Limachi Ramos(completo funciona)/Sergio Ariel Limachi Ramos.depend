@@ -107,3 +107,55 @@
 	<string.h>
 	"S_Ariel.h"
 
+1582235534 source:d:\sariel\parciales\sergio ariel limachi ramos(completo funciona)\control.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"paser.h"
+	"S_Ariel.h"
+	"Partidas.h"
+
+1582235534 d:\sariel\parciales\sergio ariel limachi ramos(completo funciona)\linkedlist.h
+
+1582235534 d:\sariel\parciales\sergio ariel limachi ramos(completo funciona)\paser.h
+
+1582235534 d:\sariel\parciales\sergio ariel limachi ramos(completo funciona)\s_ariel.h
+
+1582235534 d:\sariel\parciales\sergio ariel limachi ramos(completo funciona)\partidas.h
+
+1582235534 source:d:\sariel\parciales\sergio ariel limachi ramos(completo funciona)\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1582235534 source:d:\sariel\parciales\sergio ariel limachi ramos(completo funciona)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"control.h"
+	"Partidas.h"
+	"S_Ariel.h"
+	"LinkedList.h"
+
+1582235534 d:\sariel\parciales\sergio ariel limachi ramos(completo funciona)\control.h
+	"LinkedList.h"
+
+1582235534 source:d:\sariel\parciales\sergio ariel limachi ramos(completo funciona)\partidas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Partidas.h"
+
+1582235534 source:d:\sariel\parciales\sergio ariel limachi ramos(completo funciona)\paser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"paser.h"
+	"Partidas.h"
+
+1582235534 source:d:\sariel\parciales\sergio ariel limachi ramos(completo funciona)\s_ariel.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"S_Ariel.h"
+

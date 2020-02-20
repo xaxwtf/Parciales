@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1582239504 source:d:\sariel\parciales\tn final sergio ariel limachi\epalabras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"epalabras.h"
+
+1582236500 d:\sariel\parciales\tn final sergio ariel limachi\epalabras.h
+
+1582235534 source:d:\sariel\parciales\tn final sergio ariel limachi\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1582235534 d:\sariel\parciales\tn final sergio ariel limachi\linkedlist.h
+
+1582239710 source:d:\sariel\parciales\tn final sergio ariel limachi\paser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"paser.h"
+	"epalabras.h"
+
+1582235534 d:\sariel\parciales\tn final sergio ariel limachi\paser.h
+
+1582235534 source:d:\sariel\parciales\tn final sergio ariel limachi\s_ariel.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"S_Ariel.h"
+
+1582235534 d:\sariel\parciales\tn final sergio ariel limachi\s_ariel.h
+
+1582239319 source:d:\sariel\parciales\tn final sergio ariel limachi\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"control.h"
+
+1582239292 d:\sariel\parciales\tn final sergio ariel limachi\control.h
+
+1582239468 source:d:\sariel\parciales\tn final sergio ariel limachi\control.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"epalabras.h"
+	"S_Ariel.h"
+	"S_Ariel.h"
+	"paser.h"
+
